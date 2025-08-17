@@ -9,7 +9,7 @@
 ## 🔧 Tech Stack  
 - **Languages**: Python, C/C++, JAVA, MATLAB
 - **Hardware/Embedded**: Raspberry Pi, ESP32-S3, Arduino, RF/Comm systems  
-- **Software Tools**: PSpice, MATLAB/Simulink, Git, Linux  
+- **Software Tools**: PSpice, MATLAB, Git, Linux  
 - **Web/Apps**: Flask (backend), React (frontend), APIs  
 - **Other**: Server setup, virtualization
 ---
