@@ -15,7 +15,7 @@
 ---
 
 ## 📌 Featured Projects  
-🔹 [**Water Treatment Q&A API**](https://github.com/LcplAwire/water-treatment-chatbot)  
+🔹 [**Water Treatment Q&A API**](https://chat-water-treatment.vercel.app/)  
 A Flask-based backend API with plans for a React frontend. Designed to deliver quick, domain-specific answers for industrial water treatment.  
 
 🔹 [**ECE Lab Circuit Simulations**](https://github.com/LcplAwire/ece-labs)  
