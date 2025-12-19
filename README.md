@@ -18,7 +18,7 @@
 🔹 [**Water Treatment Q&A API**](https://chat-water-treatment.vercel.app/)  
 A Flask-based backend API with plans for a React frontend. Designed to deliver quick, domain-specific answers for industrial water treatment.  
 
-🔹 [**ECE Lab Circuit Simulations**](https://github.com/LcplAwire/ece-labs)  
+🔹 [**ECE Lab Circuit Simulations**](https://github.com/LcplAwire/LcplAwire/blob/main/ECE240L_G_9_Zachary_Ramos_Steven_Ovanessian_Group_Lab_Report.pdf)  
 Collection of PSpice, MATLAB, and Python scripts for analyzing **RC, RL, and op-amp circuits**. Includes theoretical, simulation, and experimental comparisons.  
 
 🔹 [**SDR Satellite Reception & Decoding**](https://github.com/LcplAwire/sdr-satellite-reception-&-decoding)  
