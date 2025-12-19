@@ -21,8 +21,8 @@ A Flask-based backend API with plans for a React frontend. Designed to deliver q
 🔹 [**ECE Lab Circuit Simulations**](https://github.com/LcplAwire/LcplAwire/blob/main/ECE240L_G_9_Zachary_Ramos_Steven_Ovanessian_Group_Lab_Report.pdf)  
 Collection of PSpice, MATLAB, and Python scripts for analyzing **RC, RL, and op-amp circuits**. Includes theoretical, simulation, and experimental comparisons.  
 
-🔹 [**SDR Satellite Reception & Decoding**](https://github.com/LcplAwire/sdr-satellite-reception-&-decoding)  
-Documentation of a personal server setup with emphasis on scalability, virtualization, and storage management.  
+🔹 [**Conductivity Meter (Embedded Systems Project)**](https://github.com/LcplAwire/conductivity-meter)  
+Custom embedded conductivity/TDS meter using AC excitation, analog signal conditioning, and microcontroller-based signal processing. Includes firmware development, sensor interfacing, calibration with reference solutions, and LCD-based output for water quality monitoring.
 
 ---
 
