@@ -1,6 +1,6 @@
 # Hi there, I’m Zachary 👋  
 
-🎓 Computer Engineering major (graduating Fall 2026) with a strong interest in **embedded systems, communications, and applied mathematics**.  
+🎓 Computer Engineering major (graduating Spring 2027) with a strong interest in **embedded systems, communications, and applied mathematics**.  
 💻 Background as a **Transmission Systems Operator (0627) in the USMC**, bringing discipline and real-world technical problem-solving into engineering projects.  
 🔬 Hands-on experience with **circuit design, microcontrollers (Raspberry Pi Pico, ESP32), and water treatment applications**.  
 
