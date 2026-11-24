@@ -1,47 +1,78 @@
-# Hi there, I'm Zachary 👋
+# Hi, I'm Zach Ramos 👋
 
-🎓 Computer Engineering major (graduating Spring 2027) with a strong interest in **embedded systems, communications, and applied mathematics**.
-💻 Background as a **Transmission Systems Operator (0627) in the USMC**, bringing discipline and real-world technical problem-solving into engineering projects.
-🔬 Hands-on experience with **circuit design, microcontrollers (Raspberry Pi Pico, ESP32, TM4C123), and water treatment applications**.
+Computer Engineering student at California State University, Northridge, graduating Spring 2027. I’m interested in embedded systems, communications, digital design, and engineering applications involving sensing and signal processing.
 
----
+Before returning to school, I served as a U.S. Marine Corps Transmission Systems Operator (0627). That experience gave me practical exposure to communications systems, technical troubleshooting, and working methodically in operational environments.
 
-## 🔧 Tech Stack
+## Technical Interests
 
-- **Languages**: Python, C/C++, Java, MATLAB
-- **Hardware/Embedded**: Raspberry Pi, ESP32-S3, STM32L, TM4C123GH6PM, Arduino, RF/Comm systems
-- **Digital Design**: Logisim-Evolution, computer architecture / processor design
-- **CAD/Modeling**: OnShape (3D modeling)
-- **Software Tools**: PSpice, MATLAB, Keil, Git, Linux, pfSense
-- **Web/Apps**: Flask (backend), React (frontend), APIs
-- **Other**: Server setup, virtualization, networking (pfSense)
+- Embedded systems and microcontroller firmware
+- Communications and RF-related systems
+- Digital logic and computer architecture
+- Analog signal conditioning and sensor interfaces
+- Applied mathematics for engineering
 
----
+## Tools & Technologies
 
-## 📌 Featured Projects
+**Languages:** Python, C/C++, Java, MATLAB
 
-🔹 [**Humidity Monitor**](https://github.com/LcplAwire/humidityMonitor.git)
-A two-node embedded monitoring system built on the TM4C123GH6PM with bare-metal drivers developed in Keil. Reads temperature and humidity from an industrial sensor node and relays it over RS-485 to a bare-metal receiver for real-time display and logging.
+**Embedded / Hardware:** TM4C123GH6PM, Raspberry Pi Pico, ESP32-S3, STM32L, Arduino, RS-485, sensor interfaces
 
-🔹 [**Water Treatment Q&A API**](https://chat-water-treatment.vercel.app/)
-A Flask-based backend API paired with a React frontend, delivering quick, domain-specific answers for industrial water treatment.
+**Digital Design:** Logisim-Evolution, computer architecture, processor design
 
-🔹 [**Single-Cycle MIPS Processor**](https://github.com/LcplAwire/mips-single-cycle-cpu.git)
-A single-cycle MIPS32 processor designed in Logisim-Evolution as part of a computer architecture course. Implements R-type instructions, `lw`/`sw`, `beq`, and `j`. Built individually with occasional guidance from the professor and TA.
+**Engineering Tools:** PSpice, Keil, MATLAB, Onshape, Git, Linux
 
-🔹 [**Conductivity Meter (Embedded Systems Project)**](https://github.com/LcplAwire/conductivity-meter)
-Custom embedded conductivity/TDS meter using AC excitation, analog signal conditioning, and microcontroller-based signal processing. Includes firmware development, sensor interfacing, calibration with reference solutions, and LCD-based output for water quality monitoring.
+**Software / Infrastructure:** Flask, React, REST APIs, pfSense, virtualization, networking
 
----
+## Featured Projects
 
-## 🌱 Currently Learning
+### [ISOC — Optical Tracking Command Center (Senior Design)](https://isoc-demo.vercel.app/)
 
-- Applied Differential Equations & Linear systems applications in engineering
-- Advanced circuit design and embedded system integration
-- Operating Systems and System Architecture
+Senior-design project exploring an optical angle-of-arrival tracking system. The interactive command-center demo visualizes a spherical receiver with a 64-channel Fibonacci-distributed photoresistor sensor array and estimates a light source’s azimuth and elevation from sensor-intensity data.
 
----
+- Displays estimated angle of arrival, signal significance, directionality, and angular error
+- Includes an interactive 3D receiver view, sensor-activity visualization, simulated source controls, and calibration/diagnostic panels
+- Currently operates with in-browser simulated sensor data; the Arduino/hardware connection is shown as not connected in the demo
 
-## 📫 Connect With Me
+### [Humidity Monitor](https://github.com/LcplAwire/humidityMonitor)
 
-- [Email](mailto:zramos2000@gmail.com)
+Two-node embedded monitoring system built around the TM4C123GH6PM. The system reads temperature and humidity from an industrial sensor node and transmits the data over RS-485 to a bare-metal receiver for display and logging.
+
+- Developed bare-metal drivers in Keil
+- Integrated industrial sensor communication and RS-485 data transfer
+- Built receiver-side functionality for real-time display and logging
+
+### [Conductivity Meter](https://github.com/LcplAwire/conductivity-meter)
+
+Custom embedded conductivity/TDS meter for water-quality monitoring. The project combines AC excitation, analog signal conditioning, sensor interfacing, microcontroller-based processing, calibration with reference solutions, and LCD output.
+
+- Designed around conductivity measurement and TDS estimation
+- Worked with analog signal conditioning and sensor calibration
+- Developed firmware and user-facing LCD output
+
+### [Single-Cycle MIPS Processor](https://github.com/LcplAwire/mips-single-cycle-cpu)
+
+Individually designed single-cycle MIPS32 processor in Logisim-Evolution for a computer architecture course.
+
+- Implemented R-type instructions, `lw`, `sw`, `beq`, and `j`
+- Designed the datapath and control logic for a single-cycle architecture
+- Completed with occasional guidance from the professor and teaching assistant
+
+### [Water Treatment Q&A API](https://chat-water-treatment.vercel.app/)
+
+Web application for answering domain-specific industrial water-treatment questions.
+
+- Built a Flask backend API and React frontend
+- Focused the application on quick access to water-treatment information
+- Deployed the frontend through Vercel
+
+## Currently Developing
+
+- Applied differential equations and linear systems knowledge
+- Embedded-system integration and advanced circuit-design skills
+- Operating systems and computer architecture knowledge
+- Additional hands-on project experience in communications and embedded design
+
+## Contact
+
+- Email: [zramos2000@gmail.com](mailto:zramos2000@gmail.com)
